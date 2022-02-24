@@ -13,6 +13,20 @@ Problems in this project that we usually face whenever we run a DNN on the resou
 ### Solution
 The solution is as follows.
 
+<p align="center">
+  <img src="Solution.png" />
+</p>
+<p align="center">
+    Proposed Solution
+</p>
+
+As we can see the technique that we use before deploying the face mask and face recognition system that will be the **centroid object detector**. This centroid object detector will solve the above problems that we are facing.
+- FPS will increase.
+- There will be no double detection.
+- There will be not need to contantly run the Face Mask and Face recognition system.
+
+### Solution Explanation
+
 
 
 
