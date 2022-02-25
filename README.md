@@ -26,6 +26,7 @@ As we can see the technique that we use before deploying the face mask and face 
 - There will be not need to contantly run the Face Mask and Face recognition system.
 
 ### Solution Explanation
+The centroid object tracker will track the object that is in our case is the face of the person and give him the unique id until that person leaves the screen for 2, 3 sec. Whenever the new id is generated it will take the screenshot and save it in a folder as we can see it in the gif and images below.
 
 
 
