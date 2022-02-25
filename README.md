@@ -27,6 +27,22 @@ As we can see the technique that we use before deploying the face mask and face 
 
 ### Solution Explanation
 The centroid object tracker will track the object that is in our case is the face of the person and give him the unique id until that person leaves the screen for 2, 3 sec. Whenever the new id is generated it will take the screenshot and save it in a folder as we can see it in the gif and images below.
+<p align="center">
+  <img src= "https://user-images.githubusercontent.com/46097990/155760556-09a94856-bf4b-451d-962e-88b87f75c961.gif" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/46097990/155760166-c0589fb9-2cf1-4c41-9d2d-bac759520179.png" />
+  <img src="https://user-images.githubusercontent.com/46097990/155760967-509ea381-aa67-4e41-b221-c486642df8fb.png"/>
+</p>
+
+After that when we press “Q” on the keyboard centroid tracker stops and our face-mask detector and face recognition start and process the saved images. When raspberry pi is done with all of the processing it shows us the processed images one by one and emails those images that got through the face recognition system to the administrator. Some images that got the system is as follows.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/46097990/155765659-6dbcb552-d1b4-4aa7-a7f8-b341330307ba.jpg" />
+  <img src= "https://user-images.githubusercontent.com/46097990/155765665-25e65965-3967-4aee-bda8-ebbd3bbb1315.jpg" />
+</p>
+
 
 
 
