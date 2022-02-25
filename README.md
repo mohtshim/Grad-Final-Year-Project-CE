@@ -36,14 +36,18 @@ The centroid object tracker will track the object that is in our case is the fac
   <img src="https://user-images.githubusercontent.com/46097990/155760967-509ea381-aa67-4e41-b221-c486642df8fb.png"/>
 </p>
 
-After that when we press “Q” on the keyboard centroid tracker stops and our face-mask detector and face recognition start and process the saved images. When raspberry pi is done with all of the processing it shows us the processed images one by one and emails those images that got through the face recognition system to the administrator. Some images that got the system is as follows.
+After that when we press “Q” on the keyboard centroid tracker stops and our face-mask detector and face recognition start and process the saved images. When raspberry pi is done with all of the processing it shows us the processed images one by one and emails those images that got through the face recognition system to the administrator mail. Some images that got the system is as follows.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/46097990/155765659-6dbcb552-d1b4-4aa7-a7f8-b341330307ba.jpg" />
   <img src= "https://user-images.githubusercontent.com/46097990/155765665-25e65965-3967-4aee-bda8-ebbd3bbb1315.jpg" />
 </p>
 
-
+### Results
+The results through this method is given in the figure below.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/46097990/155770984-5d054116-7bf4-4d10-9e71-9519dce90dfe.png" />
+</p>
 
 
 
