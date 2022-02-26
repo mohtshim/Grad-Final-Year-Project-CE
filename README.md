@@ -44,7 +44,7 @@ After that when we press “Q” on the keyboard centroid tracker stops and our 
 </p>
 
 ### Results
-The results through this method is given in the figure below.
+The results through this method on raspberry pi 4 is given in the figure below.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/46097990/155770984-5d054116-7bf4-4d10-9e71-9519dce90dfe.png" />
 </p>
