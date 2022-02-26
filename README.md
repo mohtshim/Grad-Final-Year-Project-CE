@@ -63,7 +63,7 @@ The results through this method on raspberry pi 4 is given in the figure below.
 - I also included the above three things seperately in the different folders you can download it from the website and github both.
 
 ### Working
-If you dont about the argument parser then please read it out [here](https://pyimagesearch.com/2018/03/12/python-argparse-command-line-arguments/).
+If you dont know about the argument parser then please read it out [here](https://pyimagesearch.com/2018/03/12/python-argparse-command-line-arguments/).
 - Pass the argument required in the fypmodule.py and run it.
 - Email module is not setted properly and need to be corrected.
 
