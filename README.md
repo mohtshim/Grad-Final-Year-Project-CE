@@ -70,8 +70,6 @@ If you dont about the argument parser then please read it out [here](https://pyi
 ### Documentation
 If you wanted to read out the project report in detail then read it out [here](https://drive.google.com/drive/folders/1wzRpmlljUwoEFOQxxh5QWNSUp5VB5850?usp=sharing).
 
-# Connect to me at [Linkedin](https://www.linkedin.com/in/mohtshim-ali-7137a5156/)
-
 # FAQs
 ## Q1: Why you didnt explain about the face-mask detector and face recognition part?
 Because this project was all about how we can implement different DNNs on raspberry pi in such a way that we get what we want and still be applicable in real-time scenarios.
@@ -81,5 +79,6 @@ Because raspberry pi is at the bottom of the resource constraint devices. It is 
 Yes we can optimize the centriod tracking more and apply more suitable hardware it can be implemented in real-time and will give us 10+ fps.
 
 # More queries? Create Issues :)
+# Connect to me at [Linkedin](https://www.linkedin.com/in/mohtshim-ali-7137a5156/)
 # Thank you and happy coding.
 
